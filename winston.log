@@ -1,0 +1,204 @@
+2022-07-18T11:35:28.478Z [info] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":true,"data":[],"message":"added!","statusCode":200}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:35:28.480Z [error] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":false,"data":[],"message":"error in adding!","statusCode":400}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:35:28.480Z [warn] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":true,"data":[],"message":"added!","statusCode":200}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:35:50.918Z [info] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":true,"data":[],"message":"added!","statusCode":200}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:35:50.920Z [error] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":false,"data":[],"message":"error in adding!","statusCode":400}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:35:50.920Z [warn] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":true,"data":[],"message":"added!","statusCode":200}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:35:58.180Z [info] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":true,"data":[],"message":"added!","statusCode":200}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:35:58.182Z [error] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":false,"data":[],"message":"error in adding!","statusCode":400}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:35:58.182Z [warn] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":true,"data":[],"message":"added!","statusCode":200}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:36:03.758Z [info] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":true,"data":[],"message":"added!","statusCode":200}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:36:03.761Z [error] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":false,"data":[],"message":"error in adding!","statusCode":400}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:36:03.761Z [warn] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":true,"data":[],"message":"added!","statusCode":200}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:36:04.723Z [info] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":true,"data":[],"message":"added!","statusCode":200}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:36:04.725Z [error] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":false,"data":[],"message":"error in adding!","statusCode":400}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:36:04.725Z [warn] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":true,"data":[],"message":"added!","statusCode":200}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:38:33.118Z [info] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":true,"data":[],"message":"added!","statusCode":200}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:38:33.121Z [error] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":false,"data":[],"message":"error in adding!","statusCode":400}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:38:33.121Z [warn] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":true,"data":[],"message":"added!","statusCode":200}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:38:33.128Z [info] 
+Request:undefined
+Response:undefined
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:38:36.951Z [info] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":true,"data":[],"message":"added!","statusCode":200}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:38:36.953Z [error] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":false,"data":[],"message":"error in adding!","statusCode":400}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:38:36.954Z [warn] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":true,"data":[],"message":"added!","statusCode":200}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:38:36.958Z [info] 
+Request:undefined
+Response:undefined
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:38:39.908Z [info] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":true,"data":[],"message":"added!","statusCode":200}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:38:39.909Z [error] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":false,"data":[],"message":"error in adding!","statusCode":400}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:38:39.910Z [warn] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":true,"data":[],"message":"added!","statusCode":200}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:38:39.913Z [info] 
+Request:undefined
+Response:undefined
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:38:44.928Z [info] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":true,"data":[],"message":"added!","statusCode":200}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:38:44.930Z [error] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":false,"data":[],"message":"error in adding!","statusCode":400}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:38:44.930Z [warn] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":true,"data":[],"message":"added!","statusCode":200}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:38:44.937Z [info] 
+Request:undefined
+Response:undefined
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:38:51.790Z [info] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":true,"data":[],"message":"added!","statusCode":200}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:38:51.792Z [error] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":false,"data":[],"message":"error in adding!","statusCode":400}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:38:51.792Z [warn] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":true,"data":[],"message":"added!","statusCode":200}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:38:51.796Z [info] 
+Request:undefined
+Response:undefined
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:39:05.013Z [info] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":true,"data":[],"message":"added!","statusCode":200}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:39:05.014Z [error] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":false,"data":[],"message":"error in adding!","statusCode":400}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:39:05.014Z [warn] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":true,"data":[],"message":"added!","statusCode":200}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:39:05.018Z [info] 
+Request:{}
+Response:undefined
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:39:08.688Z [info] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":true,"data":[],"message":"added!","statusCode":200}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:39:08.689Z [error] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":false,"data":[],"message":"error in adding!","statusCode":400}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:39:08.689Z [warn] 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":true,"data":[],"message":"added!","statusCode":200}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:39:08.693Z [info] 
+Request:{}
+Response:{}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:39:34.956Z [info]  
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":true,"data":[],"message":"added!","statusCode":200}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:39:34.959Z [error]  
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":false,"data":[],"message":"error in adding!","statusCode":400}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:39:34.960Z [warn]  
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":true,"data":[],"message":"added!","statusCode":200}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:39:34.966Z [info]  
+Request:{}
+Response:{}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:39:38.818Z [info] hello 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":true,"data":[],"message":"added!","statusCode":200}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:39:38.822Z [error] hello 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":false,"data":[],"message":"error in adding!","statusCode":400}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:39:38.822Z [warn] hello 
+Request:{"url":"abc/hello","body":{"a":1,"b":"hello"}}
+Response:{"success":true,"data":[],"message":"added!","statusCode":200}
+----------------------------------------------------------------------------------------------------
+2022-07-18T11:39:38.828Z [info] server started at 3333 
+Request:{}
+Response:{}
+----------------------------------------------------------------------------------------------------
